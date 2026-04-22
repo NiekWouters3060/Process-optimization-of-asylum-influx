@@ -1,5 +1,5 @@
 # Process-optimization-of-asylum-influx
-Developing a data-driven framework to manage and predict the pressure on CGVS (Belgian asylum agency). The focus is on predicting the monthly inflow and simulating more efficient processing processes through intelligent prioritization. All the used data is public data from the Belgian government published on https://www.cgvs.be/nl/actueel.
+Developing a data-driven framework to manage and predict the pressure on CGVS (Belgian asylum agency). The focus is on predicting the monthly inflow and simulating more efficient processing processes through classifying individual cases through ML and chose the treshold to only check request with a certain chance to receive asylum status. All the used data is public data from the Belgian government published on https://www.cgvs.be/nl/actueel.
 
 Deel 1: Collecting en Cleaning Data, EDA en PowerBI interactief dashboard dat data per nationaliteit weergeeft.
 
